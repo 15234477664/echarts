@@ -1,5 +1,4 @@
-# echarts
-在Vue中使用echarts
+# echarts(在Vue中使用echarts)
 
 ## 先npm安装echarts
 ```js
